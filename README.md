@@ -16,11 +16,11 @@ Descripción:
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 - **Practicas**
-  - [Toma de requerimientos](./1.-requerimientos.md)
-    - [Crea tu buyer persona](./2.-buyerPersona.md)
-  - [Publico objetivo](./3.-publicoObjetivo.md)
-  - [Crea tu primer Wireframe UX](./4.-wireframe.md)
-  - [Ahora el UI](./5.-ui.md)
+  - [Toma de requerimientos](https://github.com/Launch-X-Latam/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/1.-requerimientos.md)
+    - [Crea tu buyer persona](https://github.com/Launch-X-Latam/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/2.-buyerPersona.md)
+  - [Publico objetivo](https://github.com/Launch-X-Latam/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/3.-publicoObjetivo.md)
+  - [Crea tu primer Wireframe UX](https://github.com/Launch-X-Latam/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/4.-wireframe.md)
+  - [Ahora el UI](https://github.com/Launch-X-Latam/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/5.-ui.md)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
