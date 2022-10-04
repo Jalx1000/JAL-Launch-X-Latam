@@ -22,6 +22,10 @@ Descripción:
   - [Crea tu primer Wireframe UX](https://github.com/Launch-X-Latam/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/4.-wireframe.md)
   - [Ahora el UI](https://github.com/Launch-X-Latam/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/5.-ui.md)
 
+- **Referencias**
+  - [facebook](https://www.facebook.com/GumucioAbogados)
+  - [Pagina Web](https://www.gumucioabogados.com.bo/)
+
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
 **_¡Vámonos hasta el espacio y más allá Explorers!_**
