@@ -5,7 +5,9 @@ En proceso...
 <img src="BuyerAbogada.png" width="500" > 
 
 # Diagrama
-<img src="Diagrama02.drawio.png" width="500" > 
+ Ing | Esp
+-------------- | --------------
+<img src="DiagramaIng.png" width="500" > | <img src="DiagramaEsp.png" width="500" >   
 
 # Publico objetivo
 En proceso...
@@ -16,4 +18,4 @@ En proceso...
 # Diesño UI
 En proceso...
 
-# Los comentarios siempre son vienvenidos
+# El feedback siempre es vienvenido
