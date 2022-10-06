@@ -4,7 +4,7 @@ En proceso...
 # Buyer persona
 <img src="BuyerAbogada.png" width="500" > 
 
-#Diagrama
+# Diagrama
 <img src="Diagrama02.drawio.png" width="500" > 
 
 # Publico objetivo
