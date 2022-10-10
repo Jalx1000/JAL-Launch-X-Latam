@@ -2,12 +2,10 @@
 En proceso...
 
 # Buyer persona
-<img src="BuyerAbogada.png" width="500" > 
+<img src="BuyerAbogada.png" width="1000" > 
 
-# Diagrama
- Ing | Esp
--------------- | --------------
-<img src="DiagramaIng.png" width="100%" > | <img src="DiagramaEsp.png" width="500" >   
+# Diagrama 
+<img src="DiagramaEsp.png" width="1000" >   
 
 # Publico objetivo
 En proceso...
