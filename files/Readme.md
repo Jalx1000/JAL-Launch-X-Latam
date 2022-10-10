@@ -7,7 +7,7 @@ En proceso...
 # Diagrama
  Ing | Esp
 -------------- | --------------
-<img src="DiagramaIng.png" width="500" > | <img src="DiagramaEsp.png" width="500" >   
+<img src="DiagramaIng.png" width="100%" > | <img src="DiagramaEsp.png" width="500" >   
 
 # Publico objetivo
 En proceso...
