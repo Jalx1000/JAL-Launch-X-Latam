@@ -11,7 +11,8 @@ En proceso...
 En proceso...
 
 # Wireframe UX
-<img src="Wireframe.jpg" width="1000" > 
+<img src="Wireframe1.jpg" width="1000" > 
+<img src="Wireframe2.jpg" width="1000" > 
 
 # Diesño UI
 En proceso...
