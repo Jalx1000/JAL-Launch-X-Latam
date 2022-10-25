@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* NAV */
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  padding-bottom: 30px;
+  background-color: #fafafade;
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+
+.titulo {
+  color: #0066ff;
+  font-size: 1.5rem;
+}
+
+.listas {
+  display: flex;
+  align-items: center;
+}
+
+.lista {
+  margin-right: 7rem;
+  list-style: none;
+  color: gray;
+  font-weight: 700;
+}
+
+.boton {
+  padding: 8px;
+  padding-left: 1.3rem;
+  padding-right: 1.3rem;
+  border-radius: 5px;
+  background-color: #0066ff;
+  color: #fff;
+  font-weight: 400;
+  box-shadow: -1px 8px 31px -8px rgba(0,0,0,0.35);
+-webkit-box-shadow: -1px 8px 31px -8px rgba(0,0,0,0.35);
+-moz-box-shadow: -1px 8px 31px -8px rgba(0,0,0,0.35);
+}
+
+/* HOMESCREEN */
+.HomeScreen{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 8.8rem;
+    margin-right:11.3rem ;
+    padding: 20px;
+}
+.boxtitulo{
+
+}
+
+.enfermera{
+    position: relative;
+    top:-10rem;
+    width:57%;
+    z-index: -2;
+}
+
+.homeTitulo{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    color:#16396e
+}
+
+.homeParrafo{
+    line-height: 1.4rem;
+    color:#466491b6;
+    font-weight: 600;
+    width: 43%;
+    margin-bottom: 2rem;
+}
+
