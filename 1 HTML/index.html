@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML</title>
+
+
+  <style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    /* Estilo de header */
+    header {
+        background-color: #666;
+        padding: 30px;
+        text-align: center;
+        font-size: 35px;
+        color: white;
+    }
+
+    /* Crear 2 columnas con la misma posición en la fila */
+    nav {
+        float: left;
+        width: 30%;
+        height: 300px;
+        /* only for demonstration, should be removed */
+        background: #ccc;
+        padding: 20px;
+    }
+
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    article {
+        float: left;
+        padding: 20px;
+        width: 70%;
+        background-color: #f1f1f1;
+        height: 300px;
+    }
+
+    /* Clear floats after the columns */
+    section::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    /* Estilo de footer */
+    footer {
+        background-color: #777;
+        padding: 10px;
+        text-align: center;
+        color: white;
+    }
+
+    /* Responsive layout */
+    @media (max-width: 600px) {
+
+        nav,
+        article {
+            width: 100%;
+            height: auto;
+        }
+    }
+</style>
+</head>
+<body>
+  <table>
+    <tr>
+      <th>lorem ipsumlorem</th>
+      <th>lorem ipsumlorem</th>
+      <th>lorem ipsumlorem</th>
+    </tr>
+    <tr>
+      <td>lorem ipsum</td>
+      <td>lorem ipsum</td>
+      <td>lorem ipsum</td>
+    </tr>
+  </table>
+
+  <dl>
+    <dt>enchiladas</dt>
+    <dd>- Tortillas frita con salsa</dd>
+    <dt>Molletes</dt>
+    <dd>- Bolillo con frijoles y queso</dd>
+  </dl>
+  <br/>
+  <label for="input1">Ejemplo de input text</label>
+  <input type="text" id="input1" name="input1"><br><br>
+  <label for="input1">Ejemplo de input email</label>
+  <input type="email" id="input1" name="input1"><br><br>
+  <label for="input1">Ejemplo de input number</label>
+  <input type="number" id="input1" name="input1"><br><br>
+  <label for="input1">Ejemplo de input password</label>
+  <input type="password" id="input1" name="input1"><br><br>
+  <label for="input1">Ejemplo de input telefono</label>
+  <input type="tel" id="input1" maxlength="7" name="input1"><br><br>
+  <label for="input1">Ejemplo de input url</label>
+  <input type="url" id="input1" name="input1"><br><br>
+
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <header>
+    <h2>Ciudades</h2>
+</header>
+
+<section>
+    <nav>
+        <ul>
+            <li><a href="#">Londres</a></li>
+            <li><a href="#">Paris</a></li>
+            <li><a href="#">Tokyo</a></li>
+        </ul>
+    </nav>
+
+    <article>
+        <h1>Londres</h1>
+        <p>Londres es la capital de Inglaterra y es la ciudad más popular del Reino Unido, es la ciudad mas poblada con 13 millones de habitantes en su área metropolitana</p>
+    </article>
+</section>
+
+<footer>
+    <p>Footer</p>
+</footer>
+
+
+
+
+
+</body>
+</html>
