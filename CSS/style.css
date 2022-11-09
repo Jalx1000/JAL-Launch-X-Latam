@@ -14,7 +14,7 @@
   justify-content: space-between;
   align-items: center;
   padding-top: 30px;
-  width:90.28%;
+  width: 90.28%;
   background: rgba(255, 255, 255, 0.9);
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
@@ -42,7 +42,7 @@
   letter-spacing: 1px;
   cursor: pointer;
 }
-.listaBoton{
+.listaBoton {
   margin-right: 5rem;
 }
 
@@ -66,8 +66,6 @@
   cursor: pointer;
   border-style: none;
 }
-
-
 
 /* HOMESCREEN */
 .HomeScreen {
@@ -139,10 +137,11 @@
   border-style: none;
 }
 
-.boton:hover,.cuadro_boton:hover{
+.boton:hover,
+.cuadro_boton:hover {
   background: #fff;
-  color:#0066ff;
-  transition:all .2s ease
+  color: #0066ff;
+  transition: all 0.2s ease;
 }
 
 .cuadro_boxListas {
@@ -167,7 +166,7 @@
   justify-content: center;
   align-items: center;
   max-width: 80vw;
-  margin: 4rem  auto;
+  margin: 4rem auto;
   /* padding-left: 7em; */
 }
 .imgVacuna {
@@ -194,7 +193,7 @@
   font-size: 1.5rem;
   font-weight: 600;
   margin: 4rem 0;
-  margin-bottom:5rem;
+  margin-bottom: 5rem;
 }
 
 .info_cards {
@@ -231,15 +230,13 @@
   /* border:1px solid red; */
 }
 
-.senorita_img{
-  object-fit:contain;
-
-
+.senorita_img {
+  object-fit: contain;
 }
 
 .senorita_boxInfo {
   width: 40%;
-  padding-top:4rem
+  padding-top: 4rem;
 }
 
 .senorita_boxInfo_Prep-title,
@@ -276,14 +273,11 @@
   font-weight: 500;
   cursor: pointer;
   background: white;
-
 }
 .senorita_boxInfo_Prep-desplegable > p {
   color: #6d7b93;
   font-weight: 500;
   background: white;
-
-  
 }
 
 .senorita_boxInfo {
@@ -302,7 +296,7 @@
   margin: 5rem 20rem 5rem 8rem;
 }
 
-.joven_box{
+.joven_box {
   margin-bottom: 2rem;
 }
 
@@ -334,9 +328,9 @@
   margin: 1rem;
 }
 
-.joven_box_cardContact-btn:hover{
-  background:#0066ff;
-  color:#fff;
+.joven_box_cardContact-btn:hover {
+  background: #0066ff;
+  color: #fff;
   transition: all 0.3s ease;
 }
 
@@ -362,7 +356,8 @@
 
 /* FOOTER */
 
-.footer,.footer_politica{
+.footer,
+.footer_politica {
   background: #eef3ff;
   display: flex;
   justify-content: space-between;
@@ -384,8 +379,9 @@
   cursor: pointer;
 }
 
-.footer_politica-list:hover,.footer_boxListas-lista:hover{
-  color:#2747c5;
+.footer_politica-list:hover,
+.footer_boxListas-lista:hover {
+  color: #2747c5;
 }
 
 .footer_boxListas-lista,
@@ -415,31 +411,32 @@
   cursor: default;
 }
 
-.footer_boxPresent{
+.footer_boxPresent {
   margin-left: 9rem;
 }
 /* Footer politicas */
 
-.footer,.footer_politica {
+.footer,
+.footer_politica {
   /* padding: 0rem 14rem 1.5rem 8.8rem; */
   color: #6d7b93;
   width: 100%;
   /* padding-top:3rem; */
 }
 
-.footer_politica-p{
-  margin: 0rem 0rem 0rem 9rem; 
+.footer_politica-p {
+  margin: 0rem 0rem 0rem 9rem;
 }
 
-@media (max-width:1024px) {
-  .lista{
+@media (max-width: 1024px) {
+  .lista {
     margin-right: 2rem;
   }
-  .enfermera{
-    right:-3.35rem;
+  .enfermera {
+    right: -3.35rem;
   }
 
-  .boxImgVacuna{
+  .boxImgVacuna {
     padding-left: 15rem;
   }
 }
