@@ -305,18 +305,6 @@
   aspect-ratio: auto;
 }
 
-.joven_box_cardContact-topContent {
-  padding: 2rem;
-  font-size: 2rem;
-  color: #1f3e72;
-}
-
-.joven_box_cardContact-topContent > p {
-  font-size: 1rem;
-  padding: 0.6rem;
-  color: #6d7b93;
-}
-
 .joven_box_cardContact-btn {
   padding: 1rem 2rem;
   background: #f1f5ff;
@@ -410,6 +398,8 @@
   font-size: 1.4rem;
   cursor: default;
 }
+
+
 
 .footer_boxPresent {
   margin-left: 9rem;
